@@ -1,4 +1,6 @@
 # Data-Professional-Survey-Breakdown
+![Data Professional Survey-1](https://github.com/duygunshot/Data-Professional-Survey-Breakdown/assets/60246562/4269ce5c-0b0f-4c57-aebb-8874af66ac90)
+
 Project Overview:
 This Power BI project provides an in-depth analysis of a comprehensive survey conducted among data professionals worldwide. The project involves cleaning and transforming the raw survey data, followed by the creation of interactive visualizations to present key insights and trends. The focus is on exploring demographic factors, salary analysis, programming language preferences, industry challenges, and work-life balance satisfaction.
 
